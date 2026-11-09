@@ -13,21 +13,18 @@ I served as a GM/COO in medical device manufacturing and now work in project man
 - **Project and program management:** cross-functional leadership, planning, execution, stakeholder communication, and risk management
 - **AI evaluation:** domain-expert review, requirements-based testing, analysis of model outputs, and practical AI adoption in business workflows
 
-## Selected projects
+## Featured project portfolio
 
-### Business software platform
-I am directing a software platform for a dumpster rental business, focusing on operational workflows, customer and order processes, requirements, testing, and product decisions. The work brings together business rules and software execution.
+These public showcases explain the work and my responsibilities without exposing private code or internal implementation details.
 
-### DeanHStanton.com
-My professional website and publishing platform. I oversee content, product requirements, site improvements, and implementation decisions.
+| Project | Public showcase | Focus |
+| --- | --- | --- |
+| Dumpster SaaS Platform | [View project](showcases/dumpster-saas-platform/README.md) | Business workflows, requirements, product acceptance |
+| StantonPress | [View project](showcases/stantonpress/README.md) | AI-supported research, editorial verification, publishing |
+| DeanHStanton.com | [View project](showcases/deanhstanton-com/README.md) | Site ownership, requirements, content, experience |
+| Project Management Judgment Lab | [View project](showcases/project-management-judgment-lab/README.md) | Domain reasoning, evidence-based evaluation |
 
-### StantonPress
-An AI and operations-focused briefing and publishing workflow. The project involves editorial structure, web publishing, automation, and practical use of AI tools to help business readers evaluate and apply emerging capabilities.
-
-### Project Management Judgment Lab
-A project exploring the evaluation of project-management reasoning and judgment against practical requirements and scenarios.
-
-*Some working repositories are private. These descriptions focus on my role in the projects rather than claiming sole authorship of the code.*
+**Portfolio note:** I lead requirements, domain decisions, product direction, and review. These summaries do not claim sole authorship of source code. All working repositories remain private.
 
 ## Writing and teaching
 
