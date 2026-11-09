@@ -15,14 +15,14 @@ I served as a GM/COO in medical device manufacturing and now work in project man
 
 ## Featured project portfolio
 
-These public showcases explain the work and my responsibilities without exposing private code or internal implementation details.
+These four public repositories present project summaries, representative workflow diagrams, and my responsibilities without exposing private code or internal implementation details.
 
 | Project | Public showcase | Focus |
 | --- | --- | --- |
-| Dumpster SaaS Platform | [View project](showcases/dumpster-saas-platform/README.md) | Business workflows, requirements, product acceptance |
-| StantonPress | [View project](showcases/stantonpress/README.md) | AI-supported research, editorial verification, publishing |
-| DeanHStanton.com | [View project](showcases/deanhstanton-com/README.md) | Site ownership, requirements, content, experience |
-| Project Management Judgment Lab | [View project](showcases/project-management-judgment-lab/README.md) | Domain reasoning, evidence-based evaluation |
+| Dumpster SaaS Platform | [View project](https://github.com/deanstanton-a11y/dumpster-platform-showcase) | Business workflows, requirements, product acceptance |
+| StantonPress | [View project](https://github.com/deanstanton-a11y/stantonpress-showcase) | AI-supported research, editorial verification, publishing |
+| DeanHStanton.com | [View project](https://github.com/deanstanton-a11y/deanhstanton-showcase) | Site ownership, requirements, content, experience |
+| Project Management Judgment Lab | [View project](https://github.com/deanstanton-a11y/project-management-judgment-showcase) | Domain reasoning, evidence-based evaluation |
 
 **Portfolio note:** I lead requirements, domain decisions, product direction, and review. These summaries do not claim sole authorship of source code. All working repositories remain private.
 
