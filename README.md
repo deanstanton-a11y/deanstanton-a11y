@@ -19,10 +19,10 @@ These four public repositories present project summaries, representative workflo
 
 | Project | Public showcase | Focus |
 | --- | --- | --- |
-| Dumpster SaaS Platform | [View project](https://github.com/deanstanton-a11y/dumpster-platform-showcase) | Business workflows, requirements, product acceptance |
-| StantonPress | [View project](https://github.com/deanstanton-a11y/stantonpress-showcase) | AI-supported research, editorial verification, publishing |
-| DeanHStanton.com | [View project](https://github.com/deanstanton-a11y/deanhstanton-showcase) | Site ownership, requirements, content, experience |
-| Project Management Judgment Lab | [View project](https://github.com/deanstanton-a11y/project-management-judgment-showcase) | Domain reasoning, evidence-based evaluation |
+| Dumpster SaaS Platform | [View project](https://github.com/DeanHStanton/dumpster-platform-showcase) | Business workflows, requirements, product acceptance |
+| StantonPress | [View project](https://github.com/DeanHStanton/stantonpress-showcase) | AI-supported research, editorial verification, publishing |
+| DeanHStanton.com | [View project](https://github.com/DeanHStanton/deanhstanton-showcase) | Site ownership, requirements, content, experience |
+| Project Management Judgment Lab | [View project](https://github.com/DeanHStanton/project-management-judgment-showcase) | Domain reasoning, evidence-based evaluation |
 
 **Portfolio note:** I lead requirements, domain decisions, product direction, and review. These summaries do not claim sole authorship of source code. All working repositories remain private.
 
@@ -40,4 +40,4 @@ I can assess whether an AI-generated recommendation is operationally sound, inte
 
 **Website:** [DeanHStanton.com](https://deanhstanton.com)  
 **Briefings:** [StantonPress.com](https://stantonpress.com)  
-**GitHub:** [deanstanton-a11y](https://github.com/deanstanton-a11y)
+**GitHub:** [DeanHStanton](https://github.com/DeanHStanton)
